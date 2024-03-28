@@ -89,13 +89,13 @@
         <el-table-column
           prop="developerName"
           label="开发人员"
-          width="80"
+          width="100"
         ></el-table-column>
-        <el-table-column prop="createByName" label="创建人" width="80">
+        <el-table-column prop="createByName" label="创建人" width="100">
         </el-table-column>
         <el-table-column prop="createTime" label="创建时间" width="200">
         </el-table-column>
-        <el-table-column prop="updateByName" label="修改人" width="80">
+        <el-table-column prop="updateByName" label="修改人" width="100">
         </el-table-column>
         <el-table-column prop="updateTime" label="修改时间" width="200">
         </el-table-column>
